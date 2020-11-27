@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+My name is Javier, I am studying Information techonologies engineering.
+
+My goal is to learn and improve my web developer skills :)
